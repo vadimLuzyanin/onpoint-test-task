@@ -3,7 +3,11 @@
 
 Приложение создано с использованием `create-react-app`
 
+Верстка не адаптивная (работает только в режиме совместимости с iPad 1024x768)
+
 ## Live-версия на GitHub Pages
+
+https://vadimluzyanin.github.io/onpoint-test-task/
 
 ## Скрипты
 
