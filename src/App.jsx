@@ -1,13 +1,14 @@
 import React, { useState, Fragment } from 'react'
 import styled from 'styled-components'
 
-import bg from './img/more_copy.png'
+import bg from './img/more_copy_3.jpg'
 import Circle from './components/Circle'
 import ScrollDownIndicator from './components/ScrollDownIndicator'
 import IceCubes from './components/IceCubes'
 import Slider from './components/Slider'
 
 const Main = styled.div`
+  background-color: #6da2ff;
   background-image: url(${bg});
   background-repeat: no-repeat;
   background-size: 100vw;
