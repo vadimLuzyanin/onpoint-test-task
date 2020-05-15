@@ -1,4 +1,4 @@
-import React, { useState, Fragment } from 'react'
+import React, { useState, Fragment, useEffect } from 'react'
 import styled from 'styled-components'
 
 import bg from './img/more_copy_3.jpg'
@@ -63,6 +63,19 @@ const App = () => {
   const [currentPage, setCurrentPage] = useState(0)
 
   const [touchCoords, setTouchCoords] = useState(0)
+
+  useEffect(() => {
+    const localCurrentPage = JSON.parse(localStorage.getItem('currentPage'))
+    if (localCurrentPage) {
+      setCurrentPage(localCurrentPage)
+    }
+    localStorage.clear()
+  }, [])
+
+  useEffect(() => {
+    const formattedCurrentPage = JSON.stringify(currentPage)
+    localStorage.setItem('currentPage', formattedCurrentPage)
+  }, [currentPage])
 
   const scrollY = (e) => {
     let direction
