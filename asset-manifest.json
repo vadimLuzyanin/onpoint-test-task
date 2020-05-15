@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.js": "/Onpoint-test-task/static/js/main.8040570a.chunk.js",
+    "main.js.map": "/Onpoint-test-task/static/js/main.8040570a.chunk.js.map",
+    "runtime-main.js": "/Onpoint-test-task/static/js/runtime-main.fdf01a8e.js",
+    "runtime-main.js.map": "/Onpoint-test-task/static/js/runtime-main.fdf01a8e.js.map",
+    "static/js/2.034d5de0.chunk.js": "/Onpoint-test-task/static/js/2.034d5de0.chunk.js",
+    "static/js/2.034d5de0.chunk.js.map": "/Onpoint-test-task/static/js/2.034d5de0.chunk.js.map",
+    "index.html": "/Onpoint-test-task/index.html",
+    "precache-manifest.5e56072ea778a2702044425ae80a472d.js": "/Onpoint-test-task/precache-manifest.5e56072ea778a2702044425ae80a472d.js",
+    "service-worker.js": "/Onpoint-test-task/service-worker.js",
+    "static/js/2.034d5de0.chunk.js.LICENSE.txt": "/Onpoint-test-task/static/js/2.034d5de0.chunk.js.LICENSE.txt",
+    "static/media/ice_1.png": "/Onpoint-test-task/static/media/ice_1.5ee29696.png",
+    "static/media/ice_2.png": "/Onpoint-test-task/static/media/ice_2.1d4e9441.png",
+    "static/media/ice_3.png": "/Onpoint-test-task/static/media/ice_3.f66067c4.png",
+    "static/media/ice_cubes_page_1.png": "/Onpoint-test-task/static/media/ice_cubes_page_1.f6d84626.png",
+    "static/media/more_copy.png": "/Onpoint-test-task/static/media/more_copy.c2734143.png",
+    "static/media/scroll_down.png": "/Onpoint-test-task/static/media/scroll_down.e22ba608.png",
+    "static/media/tab_1.png": "/Onpoint-test-task/static/media/tab_1.1fa56831.png",
+    "static/media/tab_2.png": "/Onpoint-test-task/static/media/tab_2.2d8d8048.png",
+    "static/media/tab_3.png": "/Onpoint-test-task/static/media/tab_3.871a2cd0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fdf01a8e.js",
+    "static/js/2.034d5de0.chunk.js",
+    "static/js/main.8040570a.chunk.js"
+  ]
+}
